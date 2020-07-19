@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332136103340",
+    "firebase_url": "https://chatapp-d2ae0.firebaseio.com",
+    "project_id": "chatapp-d2ae0",
+    "storage_bucket": "chatapp-d2ae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332136103340:android:de46e6053a1f073fc08e09",
+        "android_client_info": {
+          "package_name": "com.example.likemindschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332136103340-fi0q3d8401c285ipkpefhmpa9gm8o6q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCckTe3JzK_jvUuHOT33WkWLXTJnNyzf0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332136103340-fi0q3d8401c285ipkpefhmpa9gm8o6q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
